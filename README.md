@@ -67,17 +67,6 @@ Desarrollador Full Stack e Ingeniero en Sistemas y Computación, enfocado en cre
 
 </div>
 
-## 📊 Actividad en GitHub
-
-<div align="center">
-
-<img width="49%" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=Ricchhard10&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=20B8CD&icon_color=20B8CD&text_color=C9D1D9" />
-<img width="41%" alt="Lenguajes más utilizados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricchhard10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=20B8CD&text_color=C9D1D9&langs_count=8&size_weight=0.5&count_weight=0.5" />
-
-[![Gráfica de actividad](https://github-readme-activity-graph.vercel.app/graph?username=Ricchhard10&bg_color=0D1117&color=C9D1D9&line=20B8CD&point=FFFFFF&area=true&hide_border=true&custom_title=Actividad%20de%20contribuciones)](https://github.com/Ricchhard10)
-
-</div>
-
 ## 🐍 Mis contribuciones
 
 <picture>
